@@ -19,7 +19,7 @@ Geomotion is an Android application designed to detect and classify road anomali
 1. Select Data Streaming
 1. Enable HTTP Push by toggling the button
 1. Set the Push URL to your smartphone's Wi-Fi IP address, using port `8000` and the endpoint `/data`.
-   - Example: `http://192.168.x.x:8000/data`
+   - Example: `http://127.0.x.x:8000/data`
    - Replace `127.0.x.x` with your actual IP address
 1. Launch Geomotion
 1. Press Check Status; you should see a popup saying:
