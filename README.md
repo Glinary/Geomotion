@@ -28,7 +28,8 @@ Geomotion is an Android application designed to detect and classify road anomali
 1. Go back to SensorLogger’s home screen and make sure both Accelerometer and Gyroscope sensors are enabled.
 1. Enable your smartphone’s Location Services.
 1. In SensorLogger, press Start Recording.
-1. Switch back to Geomotion and press Start Recording to begin anomaly detection.
+1. Switch back to Geomotion and press Check Status to verify connection with SensorLogger.
+1. Press Start Recording under Geomotion to begin anomaly detection.
 
 # Limitations
 
