@@ -3,7 +3,7 @@ Geomotion is an Android application designed to detect and classify road anomali
 
 # Requirements
 1. A smartphone compatible with [SensorLogger](https://github.com/tszheichoi/awesome-sensor-logger), as the app leverages data from the device’s accelerometer, gyroscope, and GPS sensors
-1. Active internet connection for Google Maps API (optional; coordinates will still display even if the map is unavailable due to API token expiration)
+1. Active internet connection for HTTP connection and Google Maps API (optional; coordinates will still display even if the map is unavailable due to API token expiration)
 
 # Features
 1. Detects and classifies road anomalies
